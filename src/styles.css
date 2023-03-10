@@ -1,0 +1,30 @@
+.App {
+    font-family: sans-serif;
+    padding: 16px 16px 128px;
+  }
+  
+  .wrapping {
+    padding: 16px 120px;
+  }
+  
+
+  .button-style{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight: bold;
+    width: auto;
+    height: auto;
+    background-color: coral;
+  }
+  
+  .button-styling{
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace;
+    font-style: normal;
+    font-weight: bold;
+    width: auto;
+    height: auto;
+    background-color: chartreuse;
+
+  }
